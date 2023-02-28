@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rsg-website/static/css/main.49579636.css",
+    "main.js": "/rsg-website/static/js/main.c883e177.js",
+    "static/js/787.28cb0dcd.chunk.js": "/rsg-website/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Backgroundimage.webp": "/rsg-website/static/media/Backgroundimage.bb937d594082ceddaf52.webp",
+    "static/media/Videoimg.png": "/rsg-website/static/media/Videoimg.58995274411f747990c9.png",
+    "static/media/navbarimg2.webp": "/rsg-website/static/media/navbarimg2.1db1b537cf5ba880f1f6.webp",
+    "static/media/logo.svg": "/rsg-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/phoneicon.webp": "/rsg-website/static/media/phoneicon.4012363df27f9f5eee3f.webp",
+    "static/media/emailicon.webp": "/rsg-website/static/media/emailicon.73fc6bc0e1f16a328d39.webp",
+    "static/media/navbarimg1.webp": "/rsg-website/static/media/navbarimg1.f62de883c3d1e744887c.webp",
+    "static/media/fbicon.webp": "/rsg-website/static/media/fbicon.a736be166e2afbafaab0.webp",
+    "static/media/inicon.webp": "/rsg-website/static/media/inicon.0315900b552349b22f29.webp",
+    "index.html": "/rsg-website/index.html",
+    "main.49579636.css.map": "/rsg-website/static/css/main.49579636.css.map",
+    "main.c883e177.js.map": "/rsg-website/static/js/main.c883e177.js.map",
+    "787.28cb0dcd.chunk.js.map": "/rsg-website/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49579636.css",
+    "static/js/main.c883e177.js"
+  ]
+}
